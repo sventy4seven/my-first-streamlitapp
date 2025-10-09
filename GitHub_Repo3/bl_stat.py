@@ -7,7 +7,7 @@ import time
 
 # ⚠️ DER KORRIGIERTE ABSOLUTE PFAD
 # Passen Sie diesen Pfad gegebenenfalls an Ihre lokale Struktur an.
-DATEI_PFAD = '..\GitHub_Repo3\data\liga.csv'
+DATEI_PFAD = '../GitHub_Repo3/data/liga.csv'
 # ----------------------------------------------------------------------
 
 
