@@ -7,7 +7,7 @@ import time
 
 # ⚠️ DER KORRIGIERTE ABSOLUTE PFAD
 # Passen Sie diesen Pfad gegebenenfalls an Ihre lokale Struktur an.
-DATEI_PFAD = 'data\liga.csv'
+DATEI_PFAD = 'data/liga.csv'
 # ----------------------------------------------------------------------
 
 
