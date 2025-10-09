@@ -1,16 +1,11 @@
-# Core dependencies
-streamlit~=1.31.1
+streamlit
 pandas
 numpy
-plotly>=5.18.0
-
-# Mapping & geospatial support
+plotly
 geopandas
 shapely
 pyproj
 fiona
-
-# Optional but stabilisiert Mapbox rendering
 requests
 matplotlib
 seaborn
