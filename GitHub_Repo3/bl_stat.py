@@ -4,10 +4,11 @@ import plotly.graph_objects as go
 from plotly.subplots import make_subplots
 import numpy as np
 import time
+import os
 
 # ⚠️ DER KORRIGIERTE ABSOLUTE PFAD
 # Passen Sie diesen Pfad gegebenenfalls an Ihre lokale Struktur an.
-DATEI_PFAD = '../GitHub_Repo3/data/liga.csv'
+DATEI_PFAD = os.path.join(os.path.dirname(__file__), "data", "liga.csv")
 # ----------------------------------------------------------------------
 
 
